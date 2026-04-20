@@ -1,0 +1,11 @@
+# Environment variables (Secrets/Passwords)
+.env
+
+# # Virtual environment
+# venv/
+# pyvenv.cfg
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
